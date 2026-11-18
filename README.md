@@ -1,98 +1,138 @@
-# 👋 Hi, I'm Thinoliyan Manoj
+# Hi, I'm Thinoliyan Manoj 👋
 
-### Health Information & Communication Technology Undergraduate | Aspiring Healthcare Data Analyst
+### Aspiring Data Analyst | Healthcare Analytics 
 
-📍 Sri Lanka | 📧 thinoliyanmanoj@gmail.com
+I'm an undergraduate in Health Information and Communication Technology with a strong interest in Data Analytics, Business Intelligence, and Healthcare Analytics.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thinoliyanmanoj-8376a7424)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:thinoliyanmanoj@gmail.com)
-
----
-
-## 🎓 About Me
-
-I am an undergraduate in **Health Information and Communication Technology** at Gampaha Wickramarachchi University of Indigenous Medicine, Sri Lanka, with a strong interest in **Healthcare Analytics, Data Analysis, and Data Visualization**.
-
-My academic background in healthcare technology motivates me to explore how data analytics can support healthcare decision-making, improve healthcare services, and generate meaningful insights.
-
-Currently, I am developing my technical skills in:
-
-- 📊 Microsoft Excel – Data Analysis and Visualization
-- 🗄️ SQL – Database Management and Data Querying
-- 📈 Power BI – Data Visualization and Dashboard Development
-- 🐍 Python – Data Analysis
-- 📉 Tableau – Data Visualization
-
-I am focused on strengthening my analytical skills through continuous learning, practical exercises, and future real-world projects.
-
-I also have academic exposure to mobile application development, Firebase, REST APIs, and digital healthcare solutions.
+I enjoy exploring datasets, identifying patterns, developing interactive dashboards, and transforming raw data into meaningful insights that support data-driven decision-making.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technical Skills
 
-**Data Analytics & Visualization**
+**Programming & Query Languages**
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Data Visualization & Business Intelligence**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-**Healthcare Technology & Development**
+**Python Libraries & Databases**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 
 ---
 
-## 🎯 Career Interests
+## 📊 Featured Data Analytics Projects
 
-- Healthcare Data Analytics
-- Health Informatics
-- Data Analysis and Visualization
-- Dashboard Development
-- Public Health Analytics
-- Healthcare Information Systems
-- Data-Driven Healthcare Solutions
+### 1. Healthcare Analytics Dashboard
+**Tools:** Power BI | Power Query | DAX
+
+- Analysed and transformed 55,000+ patient records.
+- Developed a two-page interactive healthcare dashboard.
+- Created KPI measures and 10+ visualizations.
+- Analysed healthcare revenue across hospitals, doctors, and insurance providers.
+
+[View Project on GitHub](https://github.com/ThinoliyanManoj52/Healthcare-Analytics-Dashboard)
+
+### 2. Hospital Readmission Analytics Dashboard
+**Tools:** Power BI | Power Query | DAX | Data Modelling
+
+- Analysed 101,766 hospital encounter records.
+- Developed a five-page interactive dashboard.
+- Explored 30-day hospital readmission patterns among diabetes patients.
+- Identified 11,357 encounters with readmission within 30 days (11.16%).
+
+### 3. Commercial Sales, Profitability & Supply Chain Performance Analysis
+**Tools:** MySQL | SQL | Microsoft Excel
+
+**Status:** In Progress
+
+- Analysing sales, profitability, customer behaviour, and delivery performance.
+- Applying SQL queries, data cleaning, aggregations, and JOIN operations.
+- Developing an interactive Excel dashboard with KPIs and PivotTables.
+
+### 4. Hospital 30-Day Readmission Analysis & Prediction
+**Tools:** Python | Pandas | NumPy | Machine Learning
+
+**Status:** In Progress
+
+- Analysing 100,000+ historical hospital encounter records.
+- Exploring patient readmission patterns using exploratory data analysis.
+- Working on predictive modelling to investigate hospital readmission risk.
+
+---
+
+## 🔬 Academic Research
+
+### 1. A Federated Computer Vision System for Oral Lesion Screening Across Hospitals
+
+**Research Areas:** Federated Learning | Computer Vision | Healthcare
+
+Academic research exploring a federated computer vision approach for oral lesion screening across multiple hospitals.
+
+### 2. Current Applications of Artificial Intelligence in Diagnosing Medical Conditions
+
+**Type:** Independent Academic Research
+
+- Explored Artificial Intelligence applications in healthcare diagnosis.
+- Reviewed Machine Learning, Deep Learning, medical imaging, predictive analytics, and healthcare chatbots.
+- Examined ethical considerations, data privacy challenges, benefits, and limitations of AI in healthcare.
+- Prepared an academic research paper based on literature review and analysis.
 
 ---
 
 ## 🎓 Education
 
-**Gampaha Wickramarachchi University of Indigenous Medicine**
+**Bachelor of Health Science Honours in Health Information and Communication Technology**
 
-Bachelor of Health Science Honours in Health Information and Communication Technology
+Gampaha Wickramarachchi University of Indigenous Medicine, Sri Lanka
 
-2023 – Present
+Undergraduate | 2023 – Present
 
 ---
 
-## 🌱 Currently Learning
+## 🎯 Areas of Interest
 
-- Advanced Excel and Data Analysis
-- SQL and Database Querying
-- Power BI and DAX
-- Python for Data Analytics
-- Tableau and Data Visualization
-- Healthcare Data Analytics
+- Data Analytics
+- Healthcare Analytics
+- Business Intelligence
+- Data Visualization
+- Dashboard Development
+- Healthcare Technology
+- Artificial Intelligence in Healthcare
+
+---
+
+## 📜 Certifications & Courses
+
+- Introduction to MS Excel
+- Business Analytics with Excel – Beginner Course
+- Grab Data Fast with Vertical and Horizontal LOOKUP
+- Create Charts and Dashboard using Google Sheets
+- Healthcare Administration Excellence: Skills for Success
+- Data Analytics – Introduction to Machine Learning
 
 ---
 
 ## 📫 Connect With Me
 
-- **Email:** thinoliyanmanoj@gmail.com
-- **LinkedIn:** [Thinoliyan Manoj](https://www.linkedin.com/in/thinoliyanmanoj-8376a7424)
-- **GitHub:** [ThinoliyanManoj52](https://github.com/ThinoliyanManoj52)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/thinoliyan-manoj-8376a7424)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/ThinoliyanManoj52)
+
+**Email:** thinoliyanmanoj@gmail.com
 
 ---
 
-⭐ *Learning, exploring, and building towards a career in Healthcare Data Analytics.*
+*Always learning, exploring datasets, and turning data into meaningful insights.*
